@@ -1,4 +1,6 @@
 # Excel-Project Overview
+<img width="1323" height="540" alt="image" src="https://github.com/user-attachments/assets/3958c04e-05ea-4bad-be08-1e4aceea25e7" />
+
 This is an end-to-end Excel Data Analysis project built on a simulated healthcare and pharmaceutical sales dataset. The project covers the full data analysis lifecycle — from raw data to an interactive dashboard with actionable business insights.
 As a B.Pharma graduate with data analysis skills, this project bridges domain expertise with analytical thinking to generate real-world pharmaceutical business insights.
 
