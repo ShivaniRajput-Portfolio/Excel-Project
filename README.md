@@ -70,3 +70,9 @@ West Bengal     343             8.12%
 ✅ Age-group and demographic segmentation
 ✅ Dashboard design and data storytelling
 ✅ Pharmaceutical domain knowledge applied to data
+
+<img width="927" height="158" alt="image" src="https://github.com/user-attachments/assets/ae64fac6-58bc-4c8f-b8b4-8e6c66d14ae2" />
+<img width="256" height="544" alt="image" src="https://github.com/user-attachments/assets/5240e2b5-ead1-4b6f-b5f7-a1acb81c7867" />
+<img width="608" height="305" alt="image" src="https://github.com/user-attachments/assets/74a7cc93-21ed-4676-a218-05adbde31025" />
+<img width="865" height="340" alt="image" src="https://github.com/user-attachments/assets/948e5a91-dc06-4511-abfc-edc7c846c2df" />
+
